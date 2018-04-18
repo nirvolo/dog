@@ -1,0 +1,7 @@
+#  add any file or directory we want to ignore , like work space
+
+password
+*.RData
+*.pdf 
+
+#or whole directory , 
